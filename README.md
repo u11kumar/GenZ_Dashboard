@@ -4,6 +4,16 @@
 
 This project explores the **Career aspirations of Generation Z** (Gen Z) based on survey data collected from **3,923 respondents**. The dataset provides insights into the factors influencing Gen Z's career decisions, their preferred work environments, salary expectations, and frustrations in the workplace. The dashboard was created using **Microsoft Excel** as part of an internship project at **KultureHire.com**.
 
+
+![Screenshot 2024-10-22 121705](https://github.com/user-attachments/assets/8139843e-ad32-4020-8274-aa4f5297e34e)
+
+
+
+
+https://github.com/user-attachments/assets/38efc8af-1d4a-4017-8ff5-80a90c854e12
+
+
+
 ## Key Insights
 
 Here are some of the major takeaways from the analysis:
